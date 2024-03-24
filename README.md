@@ -1,8 +1,8 @@
-# PolugonScan Clone
+# PolygonScan Clone
 
-Deploying Your Own Polygonscan: Building and Deploying a Polygon Clone
+Deploying Your Own PolygonScan: Building and Deploying a Polygon Clone
 
-Build your own Polygonscan but want to do it on your own terms? Look no further! Our guide will walk you through the step-by-step process of building and deploying your very own Polygon clone, allowing you to monitor transactions, smart contracts, and network activity with ease any blockchain.
+Build your own Polygonscan but want to do it on your own terms? Look no further! Our guide will walk you through the step-by-step process of building and deploying your very own Polygon clone, allowing you to monitor transactions, smart contracts, and network activity with ease on any blockchain.
 
 ## Project Overview
 
@@ -12,11 +12,11 @@ Build your own Polygonscan but want to do it on your own terms? Look no further!
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/how-to-create-liquidity-token-marketplace-including-ico-token-sale)
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-polygonscan-clone)
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/G5-f1hZA01U?si=E8enzoXZPl3TfzH-)
+- [Final Code Setup video](https://youtu.be/ifnepAf7hV8?si=A1UQqcnmtdREo4ao)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
